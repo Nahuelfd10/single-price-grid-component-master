@@ -129,9 +129,18 @@ button {
     font-weight: 300;
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+  
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
 
-/* ----------FOOTER------------- */
-/* Copiar el personalisado de otro challenge */
+.attribution a:hover { 
+    color: orange; 
+}
 
 .attribution { 
     font-size: 11px; 
